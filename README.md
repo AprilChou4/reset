@@ -9,7 +9,7 @@
 ```python
 import echarts from '../../public/echarts.min.js';
 var myChart = echarts.init(document.getElementById('id'));
-var option={ };
+var option={};
 myChart.setOption(option);
 ```
 ### rem对照表
